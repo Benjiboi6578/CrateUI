@@ -6,6 +6,8 @@ Click [here](https://poggit.pmmp.io/ci/xXNiceAssasinl0/CrateUI/CrateUI) To downl
 
 - [ ] amount
 
+- [ ] Enchantment
+
 # Finished:
 
 - [x] Fix all Crates Items
